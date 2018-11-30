@@ -10,7 +10,7 @@ then
   git commit -m "$message"
   git push origin master
 else
-  echo"exit!"
+  echo "exit!"
 fi
 
 
